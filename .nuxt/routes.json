@@ -1,0 +1,16 @@
+[
+  {
+    "name": "releases___en",
+    "path": "/releases",
+    "component": "/mnt/j/users/james/dev/docstest/node_modules/@nuxt/content-theme-docs/src/pages/releases.vue",
+    "chunkName": "pages/releases",
+    "_name": "_3da87721"
+  },
+  {
+    "name": "all___en",
+    "path": "/*",
+    "component": "/mnt/j/users/james/dev/docstest/node_modules/@nuxt/content-theme-docs/src/pages/_.vue",
+    "chunkName": "pages/_",
+    "_name": "_384e34da"
+  }
+]
